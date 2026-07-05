@@ -2,8 +2,9 @@
 
 ## 1. Persona
 
-| **Nom** | Thomas |
+| Profil | |
 | --- | --- |
+| **Nom** | Thomas |
 | **Âge** | 24 ans |
 | **Rôle** | Serveur |
 | **Descriptif de poste** | Étudiant qui travaille en restauration pour financer ses études. Tourne parfois sur plusieurs établissements, doit s’adapter rapidement à de nouveaux outils sans formation longue. Travaille sous pression en heure de pointe. |
@@ -11,7 +12,9 @@
 | **Objectifs** | **Besoins** |
 | --- | --- |
 | - gérer efficacement les commandes - éviter les erreurs de prise de commande - gagner du temps en service | - interface claire et lisible - accès rapide aux commandes - outil simple à utiliser |
+
 | **Défis** | **Comportement digital** |
+| --- | --- |
 | - erreurs de commande possibles - gestion du stress en heure de points - communication avec la cuisine | - à l’aise avec les outils simples - préfère des interfaces rapides - peu de temps pour apprendre |
 
 ## 2. Citation personnelle
