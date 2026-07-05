@@ -27,7 +27,7 @@
 | Suivi des KPI et statistiques d’usage | A | R | I | I | — |
 | Mise à jour de la roadmap | A | R | C | I | — |
 
-\* Légende : *
+*Légende :*
 
 - R   : Responsable (réalise la tâche)
 - A   : Approbateur (valide la tâche)
