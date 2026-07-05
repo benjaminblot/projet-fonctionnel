@@ -62,7 +62,7 @@ Le projet consiste en une plateforme SaaS B2B permettant aux restaurateurs indé
 
 ### 4. Conception
 - Vision produit : positionnement, problème, cible, solution, proposition de valeur, différenciation et vision long terme
-- User stories : 40+ US réparties en différents epics avec critères d'acceptation testables
+- User stories : 40+ US réparties en différents epics avec critères d'acceptation testables (export jira)
 - Business rules : différents domaines fonctionnels couverts, cohérents avec la hiérarchie de la carte
 - Process TO-BE : modélisation BPMN du processus de commande cible
 
