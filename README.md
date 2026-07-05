@@ -12,37 +12,37 @@ Le projet consiste en une plateforme SaaS B2B permettant aux restaurateurs indé
 /business-analyst-project
 │
 ├── README.md
-├── Cahier_des_charges
+├── Cahier_des_charges.md
 │
 ├── 1_Cadrage/
-│ ├── 1_business_case.pdf
-│ ├── 2_objectifs_scope_hypotheses.pdf
-│ └── 3_risques_initiaux.pdf
+│ ├── 1_business_case.md
+│ ├── 2_objectifs_scope_hypotheses.md
+│ └── 3_risques_initiaux.md
 │
 ├── 2_Parties_prenantes/
-│ ├── 1_stakeholder_map.pdf
-│ └── 2_matrice_raci.pdf
+│ ├── 1_stakeholder_map.md
+│ └── 2_matrice_raci.md
 │
 ├── 3_Analyse_existant/
-│ ├── 1_user_journey_restaurateur.pdf
-│ ├── 2_user_journey_client_final.pdf
-│ ├── 3_user_journey_staff.pdf
+│ ├── 1_user_journey_restaurateur.md
+│ ├── 2_user_journey_client_final.md
+│ ├── 3_user_journey_staff.md
 │ └── 4_process_as_is.pdf
 │
 ├── 4_Conception/
-│ ├── 1_vision_produit.pdf
-│ ├── 2_user_stories.pdf
-│ ├── 3_business_rules.pdf
+│ ├── 1_vision_produit.md
+│ ├── 2_user_stories.md
+│ ├── 3_business_rules.md
 │ └── 4_process_to_be.pdf
 │
 ├── 5_Priorisation/
 │ ├── 1_priorisation_moscow.pdf
-│ └── 2_justification_choix.pdf
+│ └── 2_justification_choix.md
 │
 └── 6_Recette/
-  ├── 1_plan_de_test.pdf
-  ├── 2_cas_de_test.pdf
-  └── 3_scenarios_utilisateurs.pdf
+  ├── 1_plan_de_test.md
+  ├── 2_cas_de_test.md
+  └── 3_scenarios_utilisateurs.md
 ```
 
 ## Contenu des livrables
