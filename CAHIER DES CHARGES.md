@@ -11,24 +11,19 @@ Créer une plateforme SaaS B2B permettant aux restaurateurs :
 - De permettre une commande sur place simple
 - De visualiser des statistiques utiles sans remplacer la caisse ni gérer des contraintes réglementaires lourdes.
 
----
-
 ### 1.2 Cible
 - Restaurateurs indépendants
 - Bars, brasseries, cafés
 - Restaurants sans site web ou avec site obsolète
 - Établissements souhaitant un menu QR simple et efficace
 
-
 ## 2. Périmètre fonctionnel 
 
 ### 2.1 Site vitrine restaurant
 
-
 **Objectif**
 
 Permettre à chaque restaurant de disposer d'une page web publique, hébergée sur la plateforme, visible en ligne et accessible via une URL unique. Les restaurants sont indexables et accessibles via une page de recherche publique par nom et par localisation.
-
 
 **Fonctionnalités**
 
@@ -42,8 +37,6 @@ Permettre à chaque restaurant de disposer d'une page web publique, hébergée s
 - URL publique propre et indexable
 - Optimisation SEO local
 - Chargement rapide
-
----
 
 ### 2.2 Carte digitale et QR code
 
@@ -70,8 +63,6 @@ Permettre au restaurateur de créer et gérer sa carte digitale selon une hiéra
 - Interface lisible sans zoom sur mobile
 - QR code unique par restaurant et par table
 
----
-
 ### 2.3 Commande sur place via QR 
 
 **Objectif**
@@ -91,8 +82,6 @@ Permettre au client de commander depuis son téléphone, sans gestion d'encaisse
 - Mise à jour visible en moins de 5 secondes
 - Aucune commande possible si service fermé
 
----
-
 ### 2.4 Gestion des salles et des tables
 
 **Objectif**
@@ -111,8 +100,6 @@ Permettre au restaurateur de contrôler l'ouverture et la fermeture du service, 
 
 - Tables et commandes inaccessibles aux clients lorsque le service est fermé
 - Modification du plan de table disponible uniquement durant un service actif
-
----
 
 ### 2.5 Gestion des rôles et du staff
 
@@ -136,8 +123,6 @@ Globalement, les rôles ci-dessus sont générés par défaut, ils sont modifiab
 - Fonctionnalités disponibles uniquement si associées à un rôle ou un utilisateur
 - Modification des droits réservée à l'administrateur
 
----
-
 ### 2.6 Paramétrage du restaurant
 
 **Objectif**
@@ -157,8 +142,6 @@ Permettre à l'administrateur d'adapter le comportement de la plateforme aux sp�
 
 - Paramètres accessibles uniquement par l'administrateur
 - Modifications applicables immédiatement sans redémarrage
-
----
 
 ### 2.7 Statistiques et analytics
 
@@ -201,8 +184,6 @@ Fournir au restaurateur des données simples, lisibles et orientées action pour
 9. Ouverture du service
 10. Consultation des statistiques
 
----
-
 ### 4.2 Client final
 1. Scan du QR code
 2. Sélection de la langue (optionnel)
@@ -211,8 +192,6 @@ Fournir au restaurateur des données simples, lisibles et orientées action pour
 5. Commande sur place
 6. Suivi du statut de la commande
 7. Consultation de l'historique (si connecté)
-
----
 
 ### 4.3 Staff
 1. Connexion à l'interface staff
@@ -255,8 +234,6 @@ Fournir au restaurateur des données simples, lisibles et orientées action pour
 5. Vue staff
 6. Statistiques basiques
 
----
-
 ### A faire plus tard
 - Paiement
 - Multilingue avancé
@@ -279,8 +256,6 @@ Fournir au restaurateur des données simples, lisibles et orientées action pour
 - Exports données
 - Automatisations simples
 - Menus multilingues
-
----
 
 ### Phase 3 
 - Benchmark inter-restaurateurs
