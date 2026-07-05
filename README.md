@@ -39,10 +39,13 @@ Le projet consiste en une plateforme SaaS B2B permettant aux restaurateurs indé
 │ ├── 1_priorisation_moscow.pdf
 │ └── 2_justification_choix.md
 │
-└── 6_Recette/
-  ├── 1_plan_de_test.md
-  ├── 2_cas_de_test.md
-  └── 3_scenarios_utilisateurs.md
+├── 6_Recette/
+│ ├── 1_plan_de_test.md
+│ ├── 2_cas_de_test.md
+│ └── 3_scenarios_utilisateurs.md
+│ 
+└── 7_Annexes/
+  └── 1_grid_power_interest.pdf
 ```
 
 ## Contenu des livrables
@@ -80,6 +83,9 @@ Le projet consiste en une plateforme SaaS B2B permettant aux restaurateurs indé
 - Scénarios utilsiateurs : 3 scénarios de bout en bout couvrant le cycle complet *inscription → service → commande → traitement*
 
 *Les cas de test présentés couvrent un seul epic à titre d'exemple représentatif de la méthodologie appliquée. Les critères d'acceptation de l'ensemble des US Must ont été rédigés et sont disponibles dans le document de user stories. Une couverture complète des cas de test sera réalisée avant toute mise en production.*
+
+### 7. Annexes
+- Certains visuels de référence utilisés dans les livrables principaux. Ces éléments sont référencés directement depuis les documents concernés.
 
 ## Livrables non inclus
 
