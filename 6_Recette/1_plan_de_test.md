@@ -10,22 +10,25 @@
 
 ## 2. Périmètre
 
-| **Dans le périmètre** | - Toutes les US Must : authentification, restaurant, QR code, carte, expérience client, service, gestion opérationnelle - Scénarios utilisateurs |
+| | | 
 | --- | --- |
+| **Dans le périmètre** | - Toutes les US Must : authentification, restaurant, QR code, carte, expérience client, service, gestion opérationnelle - Scénarios utilisateurs |
 | **Hors périmètre** | - US Should, Could et Won’t non livrées en MVP - Tests de performance - Tests de sécurité avancés  - Tests sur navigateurs non listés ci-dessous |
 
 ## 3. Acteurs et responsabilités
 
-| **Rédaction de tests** | BA / AMOA |
+| | |
 | --- | --- |
+| **Rédaction de tests** | BA / AMOA |
 | **Exécution des tests** | BA / AMOA |
 | **Correction des anomalies** | Développeur |
 | **Validation finale ** | Product owner |
 
 ## 4. Environnement de test
 
-| **Environnement** | Environnement de recette (staging) |
+| | |
 | --- | --- |
+| **Environnement** | Environnement de recette (staging) |
 | **Navigateurs testés** | - Chrome desktop (dernière version) - Safari mobile iOS (iPhone) - Chrome mobile Android |
 | **Données de test** | Jeu de données fictif |
 
@@ -43,7 +46,8 @@
 
 ## 6. Critères de sortie de recette
 
-| **Critère de succès** | 100% des cas de test Must en statut “Pass” |
+| | |
 | --- | --- |
+| **Critère de succès** | 100% des cas de test Must en statut “Pass” |
 | **Critère d'échec** | Au moins 1 cas de test Must en statut “Fail” bloquant non résolu |
 | **Gestion des anomalies** | Toute anomalie bloquante est remontée dans Jira avec priorité “High”, correction obligatoire avant mise en production. Les anomalies mineures sont documentées et planifiées en itération suivante |
