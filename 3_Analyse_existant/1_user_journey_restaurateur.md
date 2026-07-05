@@ -2,8 +2,9 @@
 
 ## 1. Persona
 
-| **Nom** | Marc |
+| Profil | |
 | --- | --- |
+| **Nom** | Marc |
 | **Âge** | 45 ans |
 | **Rôle** | Restaurateur indépendant |
 | **Descriptif de poste** | Gérant de son restaurant de quartier depuis 12 ans avec 2 employés. Marié, peu de temps libre en dehors des heures de service. Fonctionne encore avec un menu papier, aucune formation digitale particulière. |
