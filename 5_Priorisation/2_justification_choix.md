@@ -9,13 +9,13 @@
 Le business case identifie deux problèmes distincts mais liés : l’absence de visibilité en ligne des restaurateurs et la digitalisation insuffisante de l’expérience client en salle. Traiter un seul des deux problèmes aurait limité la valeur perçue par le restaurateur. Un menu digital sans visibilité en ligne n’attire pas de nouveaux clients, une vitrine sans commande digitale ne modernise pas l’expérience en salle.
 
 
-*Cohérence avec les personas et user journeys : *
+*Cohérence avec les personas et user journeys :*
 
 Les trois personas de Marc, Julie et Thomas représentent chacun une étape différente du parcours complet. Exclure l’un des deux piliers aurait laissé un persona sans utilité réelle dans le produit. Sans vitrine, Marc ne résout pas son problème de visibilité, sans commande, Julie et Thomas ne bénéficient pas de l’amélioration de l’expérience en salle.
 
 ### 1.2 Pourquoi exclure le paiement intégré du MVP
 
-*Réduction de la complexité réglementaire : *
+*Réduction de la complexité réglementaire :*
 
 L’intégration d’un paiement en ligne implique la norme NF525 des obligations de certification lourdes (cf. hypothèse H7 du document de cadrage). Cette contrainte aurait considérablement allongé le temps de développement et complexifié le MVP, allant à l’encontre de l’objectif de mise en ligne rapide qui est un KPI central du projet.
 
@@ -26,7 +26,7 @@ L’hypothèse H6 (commande sans paiement) identifiée dans le document Cadrage 
 
 ### 1.3 Pourquoi prioriser la gestion des rôles 
 
-*Sécurité fonctionnelle minimale dès le lancement : *
+*Sécurité fonctionnelle minimale dès le lancement :*
 
 La séparation des rôles garantit qu’un membre du staff ne peut accéder aux paramètres sensibles du restaurant. Dès qu’un restaurant emploie plusieurs personnes, ce qui est la norme même pour un petit établissement, l’absence de contrôle d’accès représente une faille de sécurité incompatible avec un usage réel, même en MVP.
 
