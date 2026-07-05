@@ -1,9 +1,9 @@
 # User journey client final
 
 ## 1. Persona
-
-| **Nom** | Julie |
+| Profil | |
 | --- | --- |
+| **Nom** | Julie |
 | **Âge** | 28 ans |
 | **Rôle** | Cliente restaurant |
 | **Descriptif de poste** | Active, habite en ville, déjeune régulièrement au restaurant entre collègues ou amis. Utilise quotidiennement son smartphone pour tout (commandes, réservations, consultations, etc..). S’attend naturellement à la même fluidité dans un restaurant. |
@@ -11,7 +11,9 @@
 | **Objectifs** | **Besoins** |
 | --- | --- |
 | - consulter rapidement le menu - commander sans attendre - éviter les interactions inutiles | - accès rapide via QR code - interface simple et intuitive - parcours fluide et rapide |
+
 | **Défis** | **Comportement digital** |
+| --- | --- |
 | - attente pour obtenir un menu - menu peu lisible ou pas à jour - perte de temps pour commander | - très à l’aise avec son smartphone - utilise régulièrement des apps - attend une expérience rapide |
 
 ## 2. Citation personnelle
