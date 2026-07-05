@@ -12,7 +12,6 @@
 | --- | --- |
 | - améliorer sa visibilité en ligne - proposer un menu accessible en lige - gagner du temps de service | - solution simple à utiliser - mise en ligne rapide - outil adapté à un petit établissement |
 | **Défis** | **Comportement digital** |
-| --- | --- |
 | - mise à jour du menu compliquée - manque de visibilité sur internet - solutions digitales trop complexes ou coûteuses | - utilise smartphone et outils basiques - peu à l’aise avec les outils complexes - recherche des solutions simples |
 
 ## 2. Citation personnelle
