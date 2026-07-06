@@ -262,13 +262,4 @@ Fournir au restaurateur des données simples, lisibles et orientées action pour
 - IA recommendations
 - Multi-établissements 
 
-## 10. Conclusion
-Ce projet est :
-- Cohérent
-- Bien cadré
-- Faisable avec une équipe réduite
-- Utile immédiatement
-- Évolutif sans dette excessive
-
-**Très bonne base produit.** 
 
