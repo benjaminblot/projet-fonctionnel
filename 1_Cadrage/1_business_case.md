@@ -18,7 +18,7 @@ Il existe donc un besoin pour une solution simple, rapide à déployer et adapt�
 
 ## 2. Problème
 
-*Les restaurateurs font face à plusieurs difficultés : *
+*Les restaurateurs font face à plusieurs difficultés :*
 
 - Absence de visibilité en ligne (SEO local faible)
 - Menus papier peu flexibles (modification difficile)
@@ -30,7 +30,7 @@ Ces  limites entraînent une perte d’opportunités commerciales, une dégradat
 
 ## 3. Solution proposée
 
-*Développer une plateforme SaaS B2B permettant aux restaurateurs de : *
+*Développer une plateforme SaaS B2B permettant aux restaurateurs de :*
 
 - Créer une page vitrine optimisée SEO
 - Proposer un menu digital accessible via QR code
@@ -42,7 +42,7 @@ Le tout dans une solution simple, rapide à configurer (\<30 min) et sans contra
 
 ## 4. Bénéfices attendus
 
-*Pour les restaurateurs : *
+*Pour les restaurateurs :*
 
 - Amélioration de la visibilité locale
 - Mise à jour instantanée des menus
@@ -50,22 +50,53 @@ Le tout dans une solution simple, rapide à configurer (\<30 min) et sans contra
 - Meilleure compréhension des clients
 - Solution simple, rapide à prendre en main et économiquement accessible.   
 
-*Pour les clients  : *
+*Pour les clients  :*
 
 - Accès rapide au menu (QR)
 - Meilleure expérience digitale
 - Commande simplifiée
 
-## 5. Contraintes
+## 5. Analyse du marché
 
-*Contraintes techniques : *
+*Taille du marché :*
+
+La France compte environ 175 000 restaurants indépendants, dont une large majorité ne dispose pas de solution digitale adaptée. Le marché des outils SaaS pour la restauration indépendante est en forte croissance, porté par la démocratisation des QR codes post-Covid et la pression concurrentielle des grandes chaînes mieux équipées.
+
+*Positionnement concurrentiel :*
+
+Les solutions existantes (Zenchef, Sunday, Lightspeed) ciblent principalement les établissements moyens à grands, avec des fonctionnalités trop complexes et des coûts prohibitifs pour les petits indépendants. Notre positionnement : solution légère, rapide à déployer, sans contrainte d'encaissement.
+
+## 6. Modèle économique
+
+*Modèle :* Abonnement mensuel SaaS (freemium)
+
+| Offre | Contenu | Cible |
+|---|---|---|
+| Gratuit | Vitrine + menu basique | Acquisition / test |
+| Standard | Accès MVP complet | Restaurateurs actifs |
+| Premium | Fonctionnalités avancées (phase 2) | Établissements en croissance |
+
+*Estimation des coûts MVP :*
+
+- Développement : coûts internes (équipe réduite : 1 dev, 1 BA/PO)
+- Hébergement : faible à l'échelle MVP
+- Maintenance : assurée par l'équipe en place
+
+*Roi attendu :*
+
+Le modèle par abonnement génère une récurrence de revenus dès les premiers abonnés. La scalabilité du SaaS permet une croissance sans coût marginal élevé : chaque nouvel abonné améliore mécaniquement la rentabilité. Le seuil de rentabilité sera défini selon la grille tarifaire retenue lors du lancement commercial.
+
+
+## 7. Contraintes
+
+*Contraintes techniques :*
 
 - Développement frontend (React / Next.js)
 - Backend et base de données à structurer
 - Gestion du responsive et SEO
 - Génération dynamique de QR codes  
 
-*Contraintes produit : *
+*Contraintes produit :*
 
 - Absence d’intégration de paiement (choix stratégique)
 - Lmitation du périmètre pour un MVP simple
@@ -73,9 +104,9 @@ Le tout dans une solution simple, rapide à configurer (\<30 min) et sans contra
 
 L’intégration du paiement client n’est pas incluse dans le MVP afin de limiter la complexité réglementaire et technique. Le produit se concentre sur la digitalisation de l’expérience client sans remplacer les systèmes d’encaissement existants. Cette fonctionnalité pourra être envisagée dans une phase ultérieure.
 
-## 6. Indicateurs de succès (KPI)
+## 8. Indicateurs de succès (KPI)
 
-*Les KPI suivants permettent de mesurer l’usage et la valeur apportée par la solution :  *
+*Les KPI suivants permettent de mesurer l’usage et la valeur apportée par la solution :*
 
 - Temps de mise en ligne \< 30 minutes
 - Taux d’utilisation du QR code par les clients \> 60%
@@ -83,9 +114,9 @@ L’intégration du paiement client n’est pas incluse dans le MVP afin de limi
 - Fréquence de mise à jour semestrielle des menus \> 40%
 - Taux de commandes via QR \> 30%
 
-## 7. Conclusion / décision
+## 9. Conclusion / décision
 
-*Ce projet présente : *
+*Ce projet présente :*
 
 - Un fort alignement avec les besoins du marché
 - Une complexité maîtrisée (MVP réalisable seul)
