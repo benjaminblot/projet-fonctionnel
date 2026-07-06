@@ -108,7 +108,7 @@ L’intégration du paiement client n’est pas incluse dans le MVP afin de limi
 
 *Les KPI suivants permettent de mesurer l’usage et la valeur apportée par la solution :*
 
-- Temps de mise en ligne \< 30 minutes
+- Taux de mise en ligne en moins de 30 min \> 90% des nouveaux restaurateurs
 - Taux d’utilisation du QR code par les clients \> 60%
 - Taux de restaurateurs actifs hebdomadaires (au moins une action significative) \> à 40%
 - Taux de restaurateurs ayant mis à jour leur menu au moins une fois par semaine \> 40%
