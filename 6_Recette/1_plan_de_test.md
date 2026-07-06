@@ -42,7 +42,7 @@
 | EP-04 QR code | - Générer un QR code global - Générer un QR code par table | MUST |
 | EP-05 Expérience client | - Consulter le menu via QR code - Consulter la page vitrine d’un restaurant - Passer une commande | MUST |
 | EP-06 Service | - Ouverture / fermeture du service - Consulter les commandes en temps réel - Mettre à jour le statut d’une commande | MUST |
-| EP-06 Gestion opérationnelle | - Paramétrer le restaurant - Gérer le staff | MUST |
+| EP-07 Gestion opérationnelle | - Paramétrer le restaurant - Gérer le staff | MUST |
 
 ## 6. Critères de sortie de recette
 
