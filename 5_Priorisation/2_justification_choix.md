@@ -71,7 +71,7 @@ La commande sur place sans gestion du service reviendrait à laisser les QR code
 ### 2.6 Gérer ses allergènes (profil client)
 
 - *Aurait pu être :* must (enjeu de sécurité alimentaire)
-- *Justification :* les allergènes sont déjà affichés sur chaque plat (cf. Business rule 5.6), le client peut les consulter sans compte. La personnalisation des allergènes dans le profil est un confort supplémentaire, pas une obligation de sécurité bloquante pour le MVP.
+- *Justification :* les allergènes sont déjà affichés sur chaque plat, le client peut les consulter sans compte. La personnalisation des allergènes dans le profil est un confort supplémentaire, pas une obligation de sécurité bloquante pour le MVP.
 
 ### 2.7 Consulter ses récapitulatifs de commandes
 
