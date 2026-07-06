@@ -111,7 +111,7 @@ L’intégration du paiement client n’est pas incluse dans le MVP afin de limi
 - Temps de mise en ligne \< 30 minutes
 - Taux d’utilisation du QR code par les clients \> 60%
 - Taux de restaurateurs actifs hebdomadaires (au moins une action significative) \> à 40%
-- Fréquence de mise à jour semestrielle des menus \> 40%
+- Taux de restaurateurs ayant mis à jour leur menu au moins une fois par semaine \> 40%
 - Taux de commandes via QR \> 30%
 
 ## 9. Conclusion / décision
