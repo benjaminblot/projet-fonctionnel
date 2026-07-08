@@ -24,7 +24,7 @@ Permettre à plus de 50% des restaurateurs de modifier leur menu au moins une fo
 
 ## 2. Périmètre IN
 
-*Le MVP inclut les fonctionnalités suivantes : *
+*Le MVP inclut les fonctionnalités suivantes :*
 
 - Création d’un site vitrine pour le restaurant
 - Gestion des informations et médias du restaurant
@@ -41,7 +41,7 @@ Permettre à plus de 50% des restaurateurs de modifier leur menu au moins une fo
 
 ## 3. Périmètre OUT 
 
-*Le MVP n’inclut pas les fonctionnalités suivantes : *
+*Le MVP n’inclut pas les fonctionnalités suivantes :*
 
 - Gestion de paiement en ligne ou sur place
 - Intégration avec des systèmes de caisse
