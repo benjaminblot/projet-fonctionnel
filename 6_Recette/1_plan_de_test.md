@@ -22,7 +22,7 @@
 | **Rédaction de tests** | BA / AMOA |
 | **Exécution des tests** | BA / AMOA |
 | **Correction des anomalies** | Développeur |
-| **Validation finale ** | Product owner |
+| **Validation finale** | Product owner |
 
 ## 4. Environnement de test
 
